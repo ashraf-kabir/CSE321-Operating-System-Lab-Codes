@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CSE321-Operating-System-Lab.iml" filepath="$PROJECT_DIR$/.idea/CSE321-Operating-System-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSE321-lab-solves.iml" filepath="$PROJECT_DIR$/CSE321-lab-solves.iml" />
     </modules>
   </component>
 </project>
